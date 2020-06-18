@@ -3,6 +3,7 @@
 
 //declaração das bibliotecas necessarias
 #include <stdio.h>
+#include <stdlib.h>
 #include <locale.h>
 
 //inicio do código
